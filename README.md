@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/counting-every-single-heartbeat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Counting Every Single Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-every-single-heartbeat/) |
+| **Get License** | [Get License For Counting Every Single Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-every-single-heartbeat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `03a0ff571e0455631ee4d6b83250318f671c22383c8dbfb455f120d3169960d1` |
 | **Timestamp** | May 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
