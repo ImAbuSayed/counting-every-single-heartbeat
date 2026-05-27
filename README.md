@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/counting-every-single-heartbeat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Counting Every Single Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-every-single-heartbeat/) |
+| **Get License** | [License this song: Counting Every Single Heartbeat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/counting-every-single-heartbeat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when your shadow falls on me
+> A quiet spark beneath the canopy of trees
+> You pull me closer in the fading evening light
+> We’re making memories that echo through the night
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
